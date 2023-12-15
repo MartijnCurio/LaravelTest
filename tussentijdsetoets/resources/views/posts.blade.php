@@ -23,7 +23,8 @@
                 <h1>Posts</h1>
                 <p>En tot zover, mijn Laravel kennis.</p>
                 <p>Ik heb behoorlijk veel moeite met het begrijpen van de logica achter Laravel.</p>
-                <p>Wellicht kunnen we samen kijken naar een kleine herhaling van Laravel?</p>
+                <p>Vooral met database-gerelateerde dingen zoals: migrations, seeders.</p>
+                <p>Wellicht kunnen we samen kijken naar een kleine herhaling hierover?</p>
             </main>
         </main>
     </body>
